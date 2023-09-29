@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aliasghardev](https://github.com/aliasghardev)
 
-- 💬 Ask me about **html,css**
+- 💬 Ask me about **html,css,scss**
 
 - 📫 How to reach me **aliasghargholami.developer@gmail.com**
 
