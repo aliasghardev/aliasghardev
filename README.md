@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm aliasghar gholami</h1>
 <h3 align="center">A passionate frontend developer from iran</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliasghardev&label=Profile%20views&color=0e75b6&style=flat" alt="aliasghardev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliasghar-gholami-developer&label=Profile%20views&color=0e75b6&style=flat" alt="aliasghar-gholami-developer" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliasghardev" alt="aliasghardev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliasghar-gholami-developer" alt="aliasghar-gholami-developer" /></a> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/aliasghardev](https://github.com/aliasghardev)
 
