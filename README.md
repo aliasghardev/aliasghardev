@@ -10,9 +10,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliasghardev&label=Profile%20views&color=0e75b6&style=flat" alt="aliasghardev" /> </p><hr>
 
+## 🏆 GitHub Trophies :
 <p align="left">
-. 🏆 GitHub Trophies :
-
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliasghardev" alt="aliasghardev" /></a>
 </p>
 
