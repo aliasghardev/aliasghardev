@@ -1,17 +1,18 @@
 
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff91&height=120&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ab83&height=120&section=header"/>
 </a>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋;I'm+Aliasghar+Ghoalmi...;A+Front-end+developer;Nice+to+meet+you!&center=true&size=30&color=821FF7&background=FFFFFF00">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋;I'm+Aliasghar+Ghoalmi...;A+Front-end+developer;Nice+to+meet+you!&center=true&size=30&color=00785c&background=FFFFFF00">
     
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliasghardev&label=Profile%20views&color=0e75b6&style=flat" alt="aliasghardev" /> </p><hr>
 
-## 🏆 GitHub Trophies :
+
 <p align="left">
+ 🏆 GitHub Trophies :
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliasghardev" alt="aliasghardev" /></a>
 </p>
 
@@ -47,5 +48,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aliasghardev&theme=dark-purple&center=true&border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff91&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ab83&height=120&section=footer"/>
 </a>
