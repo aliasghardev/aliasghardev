@@ -1,6 +1,6 @@
 
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=821FF7&height=120&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff91&height=120&section=header"/>
 </a>
 
 <h1 align="center">
@@ -10,9 +10,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliasghardev&label=Profile%20views&color=0e75b6&style=flat" alt="aliasghardev" /> </p><hr>
 
-
-# 🏆 GitHub Trophies :
 <p align="left">
+. 🏆 GitHub Trophies :
+
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliasghardev" alt="aliasghardev" /></a>
 </p>
 
@@ -22,7 +22,7 @@
  
 - 💡 I’m Aliasghar Gholami, A FrontEnd developer who is looking to grow as a Full-Stack Developer
 
-- 👨‍💻 All of my projects are available at [https://github.com/sama-babaee-web](https://github.com/sama-babaee-web)
+- 👨‍💻 All of my projects are available at [https://github.com/aliasghardev](https://github.com/aliasghardev)
 
 - 💬 Ask me about **React , Javascript , Bootstrap ,Responsive , Scss, Css3 , Html5**
 
@@ -46,3 +46,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=aliasghardev&theme=night-purple&border=true&center=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aliasghardev&theme=night-purple&center=true&border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aliasghardev&theme=dark-purple&center=true&border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff91&height=120&section=footer"/>
+</a>
