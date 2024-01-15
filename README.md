@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋;I'm+Aliasghar+Ghoalmi...;A+Front-end+developer;Nice+to+meet+you!&center=true&size=30&color=00785c&background=FFFFFF00">
     
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliasghardev&label=Profile%20views&color=01ab84&style=flat" alt="aliasghardev" /> </p><hr>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliasghardev&label=Profile%20views&color=02ab84&style=flat" alt="aliasghardev" /> </p><hr>
 
 
 <p align="left">
