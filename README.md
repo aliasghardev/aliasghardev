@@ -5,7 +5,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋;I'm+Aliasghar+Ghoalmi...;A+Front-end+developer;Nice+to+meet+you!&center=true&size=30&color=00785c&background=FFFFFF00">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋;I'm+Aliasghar+Ghoalmi...;A+Front-end+developer;Nice+to+meet+you!&center=true&size=30&color=00795c&background=FFFFFF00">
     
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliasghardev&label=Profile%20views&color=02ab83&style=flat" alt="aliasghardev" /> </p><hr>
