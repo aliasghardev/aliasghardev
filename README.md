@@ -24,7 +24,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/aliasghardev](https://github.com/aliasghardev)
 
-- 💬 Ask me about **React , Javascript , Bootstrap ,Responsive , Scss, Css3 , Html5 , TailwindCSS**
+- 💬 Ask me about **React , Javascript , Bootstrap ,Responsive , Scss, Css3 , Html5 , TailwindCSS , nextjs**
 
 - 📫 How to reach me **aliasghargholami.developer@gmail.com**
 
